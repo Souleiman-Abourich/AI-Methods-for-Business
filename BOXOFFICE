@@ -1,0 +1,20 @@
+##INTRODUCTION 
+
+
+The film industry continues to captivate audiences worldwide, with countless blockbuster hits grossing hundreds of millions—and sometimes even billions—of dollars annually. While some movies achieve phenomenal success, many others fail to resonate with audiences, falling short at the box office. Understanding what drives a movie’s success has become increasingly vital in an industry where high stakes are the norm.
+
+In this project, we aim to explore the factors that contribute to a movie's success and predict its box office performance using machine learning models. This analysis is not just a fascinating journey into the world of cinema but also a critical endeavor for decision-makers in the industry.
+
+We, [Team Members X, Y, and Z], present this project as part of the AI Methods for Business course. Together, we divided the work based on specific research questions, delving into various aspects of data analysis and model building.
+
+Project Goals:
+Analyze the Metacritic dataset to uncover patterns and insights related to movie success.
+Implement machine learning models to predict box office performance based on multiple features.
+Provide explainable insights that can help stakeholders make informed decisions.
+Project Structure:
+Exploratory Data Analysis & Cleaning
+Feature Engineering with Transformer Models
+Model Development & Evaluation (Baseline, Random Forest, and Neural Network Models)
+Explainability & Interpretation
+Bonus Challenges: Topic Modeling & Clustering
+Join us as we embark on this exciting journey through the world of movies and machine learning!
